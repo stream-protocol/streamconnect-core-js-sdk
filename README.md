@@ -49,4 +49,4 @@ A step-by-step overview of how **Stream**Connect facilitates cross-chain transac
 
 **Stream**Connect simplifies the process of moving assets between different blockchains, enhancing interoperability in the blockchain ecosystem.
 
-For more information, visit [**Stream**Connect Website](https://streamprotocol.org) or explore the [Documentation](https://docs.streamconnect.app) for detailed instructions and resources.
+For more information, visit [**Stream**Connect Website](https://streamprotocol.org) or explore the [Documentation](https://docs.streamconnect.app) for detailed instructions and resources. (Under Maintenance).
